@@ -78,5 +78,6 @@ Market Expansion: Identify high-performing regions suitable for expansion.
 Customer Insights: Filter analysis by customer type (e.g., new vs. returning) for deeper segmentation.
 
 🖼️ Dashboard Preview
+https://github.com/saxena-siddhartha/Mobile-Sales-Dashboard/blob/main/Mobile%20Sales%20Dashboard.png
 
 
